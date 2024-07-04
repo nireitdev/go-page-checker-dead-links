@@ -10,7 +10,7 @@ go run main.go -h https://mysite.com
 
 Additional options:
 
--t : number of concurrents chekers
+-t : number of concurrents conecctions
 
 -v : be verbose
 
