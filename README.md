@@ -9,7 +9,9 @@ go run main.go -h https://mysite.com
 ```
 
 Additional options:
+
 -t : number of concurrents chekers
+
 -v : be verbose
 
 ```bash
